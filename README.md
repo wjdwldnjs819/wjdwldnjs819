@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👚 Hi
+<br/>
 <div align= "center">
     </div>
     <div style="text-align: left;">
@@ -14,7 +15,12 @@
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
           </div>
     </div>
-    
+<br/>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏄‍♂️ BOJ </h2> <br/>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=wjdwldnjs819)](https://solved.ac/wjdwldnjs819)
+
 <!--
 **wjdwldnjs819/wjdwldnjs819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
